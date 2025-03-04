@@ -35,8 +35,7 @@ I'm a passionate **Java Full-Stack Developer** with expertise in building robust
 ## 📫 Connect with Me  
 
 - 📧 Email: [satyajitkhuntia122333@gmail.com](mailto:satyajitkhuntia122333@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)  
-- 🔗 Portfolio: [Your Portfolio (if any)](#)  
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khuntiasaty/)  
 
 ---
 
