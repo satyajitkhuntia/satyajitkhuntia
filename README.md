@@ -45,7 +45,7 @@
 - **Frontend**: React, Vite, TypeScript, Tailwind  
 - **Backend**: Spring Boot, JPA, MySQL  
 - **AI Service**: Python, FastAPI, Scikit-learn  
-- 🔗 [Live Demo](https://krishimitra-olive.vercel.app/)
+- 🔗 [Live Demo](https://mykrishimitra.vercel.app/)
 
 ---
 
